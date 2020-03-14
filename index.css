@@ -51,6 +51,10 @@ img {
 	margin:0;
 }
 
+img:hover {
+	transition:scale(1.2);
+}
+
 p {
 	height:100%;
 	margin:0;
