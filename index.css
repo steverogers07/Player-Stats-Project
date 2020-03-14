@@ -51,7 +51,7 @@ img {
 	margin:0;
 }
 
-.three:hover {
+div.three:hover {
 	transform:scale(1.5);
 }
 
